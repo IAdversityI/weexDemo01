@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Aug 30 18:12:52 CST 2018
+1.base=E\:\\vueProject\\weexProject\\demo03\\platforms\\android\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=main.js
+0.set=ASSET
+0.base=E\:\\vueProject\\weexProject\\demo03\\platforms\\android\\app\\build\\intermediates\\assets\\debug
+1.path=index.js
